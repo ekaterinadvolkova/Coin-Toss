@@ -16,9 +16,9 @@
 
 
 <h2> Programming languages used: </h2>
-:first_quarter_moon:**HTML** <br>
-:first_quarter_moon:**CSS** <br>
-:first_quarter_moon:**Javascript** <br>
+:first_quarter_moon: **HTML** <br>
+:first_quarter_moon: **CSS** <br>
+:first_quarter_moon: **Javascript** <br>
 
 <h2>Try Playing the Game </h2>
 
