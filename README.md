@@ -21,6 +21,6 @@
 :first_quarter_moon: Javascript <br>
 
 
-[<h2> Try Playing the Game </h2>](https://ekaterinadvolkova.github.io/Coin-Toss/)
+[<h3> Try Playing the Game :relaxed:</h3>](https://ekaterinadvolkova.github.io/Coin-Toss/)
 
 
