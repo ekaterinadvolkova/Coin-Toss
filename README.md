@@ -20,9 +20,6 @@
 :first_quarter_moon: CSS <br>
 :first_quarter_moon: Javascript <br>
 
-<h2>Try Playing the Game </h2>
+<h2>[Try Playing the Game](https://ekaterinadvolkova.github.io/Coin-Toss/)</h2>
 
-Coin Toss with Javascript
-Link for the code 
-https://ekaterinadvolkova.github.io/Coin-Toss/
 
